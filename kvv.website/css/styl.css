@@ -1,0 +1,71 @@
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+body {
+   background-color:#2F4F4F;
+}
+/*.wall {
+    background: url("Img/code-wallpaper-2.jpeg") center no-repeat;
+    background-size: cover;
+}*/
+h1 {
+    color: #FFFAFA;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 550;
+}
+.header {
+    height: 40px;
+    border: 1px solid #061b3c;
+    background-color: #151a60;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: flex-start;
+}
+.header a {
+    color: aliceblue;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 400;
+    text-decoration: none;
+    margin-right: 55px;
+}
+#avatar {
+    width: 275px;
+    height: 380px;
+}
+#tumb {
+  width: 400px;
+  height: 250px;
+}
+.content {
+    display: flex;
+    justify-content: flex-start;
+    align-content: flex-end;
+}
+.content img {
+    width: 270px;
+    height: 270px;
+    padding: 10px;
+    align-content: flex-start;
+}
+p {
+    width: 790;
+    color: #FFFAFA;
+    align-content: flex-start;
+}
+.footer {
+    height: 40px;
+    background-color: #151a60;
+    color: #007bff;
+    font-family: Roboto;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#img {
+    width: 50px;
+    height: 50px;
+}
